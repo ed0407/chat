@@ -23,3 +23,16 @@ function main() {
 }
 
 window.onload = main;
+
+
+// var value = 0;
+// function setup(){
+//     createCanvas(1900,1000);
+// }
+// function draw() {
+//     fill(value);
+// }
+// function mouseDragged() {
+//     ellipse(mouseX, mouseY, 30, 30);
+//     return false;
+//   }
